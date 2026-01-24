@@ -75,11 +75,11 @@ My work spans **design, video, animation, live production, and game development*
 
 <h3 align="left">Design & Media Tools:</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,ar" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnujaGajaweera&show_icons=true&locale=en&layout=compact" alt="AnujaGajaweera" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnujaGajaweera&show_icons=true&locale=en&layout=compact&theme=radical" alt="AnujaGajaweera" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnujaGajaweera&show_icons=true&locale=en" alt="AnujaGajaweera" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnujaGajaweera&show_icons=true&locale=en&theme=radical" alt="AnujaGajaweera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnujaGajaweera&" alt="AnujaGajaweera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnujaGajaweera&theme=radical" alt="AnujaGajaweera" /></p>
 
 ---
 
