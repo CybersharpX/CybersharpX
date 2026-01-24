@@ -2,16 +2,6 @@
 
 🎨 Creative Multimedia Designer • 💻 Programmer • 🎮 Game Developer • 🎥 Video Editor • 🧊 3D Animator  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AnujaGajaweera&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnujaGajaweera&theme=darkhub&margin-w=10" />
-</p>
-
----
-
 I’m a **Creative Technologist** who blends **visual creativity** with **programming logic** to build engaging, modern, and efficient digital experiences.  
 My work spans **design, video, animation, live production, and game development**, supported by strong scripting and problem-solving skills.
 
