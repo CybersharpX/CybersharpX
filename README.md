@@ -73,7 +73,7 @@ My work spans **design, video, animation, live production, and game development*
 
 ## Creative Multimedia Skills
 
-<h3 align="left">Design & Media Tools:</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,ar" /> </p>
+<h3 align="left">Design & Media Tools:</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=figma,blender,ai,ps,ae,pr" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnujaGajaweera&show_icons=true&locale=en&layout=compact" alt="AnujaGajaweera" /></p>
 
