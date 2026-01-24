@@ -59,7 +59,7 @@ My work spans **design, video, animation, live production, and game development*
 
 ---
 
-- 👨‍💻 All of my projects are available at **[https://anujagajaweera-portfolio.vercel.app](https://anujagajaweera-portfolio.vercel.app))**
+- 👨‍💻 All of my projects are available at **[https://anujagajaweera-portfolio.vercel.app](https://anujagajaweera-portfolio.vercel.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
