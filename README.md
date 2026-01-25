@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anuja Gajaweera
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=000000&width=750&height=75&lines=%F0%9F%91%8B+Hi%2C+I'm+Anuja+Gajaweera)](https://git.io/typing-svg)
 
 🎨 Creative Multimedia Designer • 💻 Programmer • 🎮 Game Developer • 🎥 Video Editor • 🧊 3D Animator  
 
