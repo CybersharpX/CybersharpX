@@ -59,7 +59,7 @@ My work spans **design, video, animation, live production, and game development*
 
 ## Programming & Technical Skills
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,tailwind,nodejs,git,linux,vscode,vite,supabase,godot" /> </p>
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,nodejs,git,linux,vscode,vite,supabase,godot" /> </p>
 
 ## Creative Multimedia Skills
 
