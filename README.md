@@ -53,7 +53,7 @@ My work spans **design, video, animation, live production, and game development*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/AnujaGajaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AnujaGajaweera" height="30" width="40" /></a>
+<a href="https://github.com/CybersharpX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Cybersharp" height="30" width="40" /></a>
 <a href="https://youtube.com/@FloatHeadTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="FloatHeadTech" height="30" width="40" /></a>
 </p>
 
@@ -67,17 +67,17 @@ My work spans **design, video, animation, live production, and game development*
 
 ### 📊 GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnujaGajaweera&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AnujaGajaweera" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CybersharpX&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Cybersharp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnujaGajaweera&show_icons=true&locale=en&theme=tokyonight" alt="AnujaGajaweera" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CybersharpX&show_icons=true&locale=en&theme=tokyonight" alt="Cybersharp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnujaGajaweera&theme=tokyonight" alt="AnujaGajaweera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CybersharpX&theme=tokyonight" alt="Cybersharp" /></p>
 
 ---
 
 ## 📫 Contact Me
 - **Email:** anujagajaweera@gmail.com  
-- **GitHub:** [@AnujaGajaweera](https://github.com/AnujaGajaweera)  
+- **GitHub:** [@CybersharpX](https://github.com/CybersharpX)  
 - **Phone:** 0718010233  
 - **Whatsapp** [0718010233](https://api.whatsapp.com/send?phone=0718010233&text=Hi.%20I%20Saw%20You%20On%20The%20GitHub.)
 - **Location:** Sri Lanka  
